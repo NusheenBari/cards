@@ -34,7 +34,7 @@ mat-card-subtitle{
 }
 .CTA-1{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 contact-1{
     display: flex;
