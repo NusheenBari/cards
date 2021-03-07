@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 14.4//EN
+N:Feliciano;Sylvia;;;
+FN:Sylvia Feliciano
+ORG:Solace Mind \, LLC;
+EMAIL;type=INTERNET;type=HOME;type=pref:sylvia@thesolacemind.com
+TEL;type=CELL;type=VOICE;type=pref:70262 69477
+item1.URL;type=pref:www.thesolacemind.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
